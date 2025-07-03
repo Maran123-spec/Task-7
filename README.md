@@ -7,7 +7,6 @@ Total Extensions Installed: 4
 
 Suspicious Extensions Found: None
 
-Actions Taken:
 
   1) Reviewed all installed extensions manually
     
